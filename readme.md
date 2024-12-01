@@ -51,6 +51,7 @@
 - [komoflow](https://github.com/pro470/Flow.Launcher.Plugin.komoflow) - A komorebi plugin for the Flow launcher
 - [komokana](https://github.com/LGUG2Z/komokana) - Automatic application-aware kanata keyboard layer switching for Windows
 - [komorebi.el](https://github.com/eraschle/komorebi.el) - Emacs package for managing Komorebi Windows Manager
+- [masir](https://github.com/LGUG2Z/masir) - Focus follows mouse daemon for Windows 11+
 - [tacky-borders](https://github.com/lukeyou05/tacky-borders) - tacky-borders lets you customize the borders on Windows 10 and 11
 
 ## Configurations
