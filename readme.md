@@ -23,6 +23,7 @@
 - [Komorebi - Um NOVO JEITO de usar seu computador!!!](https://www.youtube.com/watch?v=vHB4yko1skc)
 - [Why you as a Path of Exile player should install Komorebi](https://www.youtube.com/watch?v=aS6KLJiBQgk)
 - [Komorebi with DragonBot Voice Control](https://www.youtube.com/watch?v=fiPJLmhnnXM)
+- [komorebiの設定例](https://zenn.dev/haoblackj/articles/komorebi-example)
 
 ## Status Bars
 
