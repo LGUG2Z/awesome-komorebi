@@ -57,6 +57,7 @@
 - [masir](https://github.com/LGUG2Z/masir) - Focus follows mouse daemon for Windows 11+
 - [tacky-borders](https://github.com/lukeyou05/tacky-borders) - tacky-borders lets you customize the borders on Windows 10 and 11
 - [nezumi](https://github.com/donkee/nezumi) - another focus-follows-mouse app for Windows 11+; includes tray icon
+- [streamdeck-komorebi](https://github.com/kdeenanauth/streamdeck-komorebi) - displays Komorebi state information and optionally responds to key down events on the Elgato Stream Deck
 
 ## Configurations
 
