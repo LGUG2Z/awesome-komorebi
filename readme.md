@@ -64,6 +64,7 @@
 - [komorebi.kanata](https://github.com/pro470/komorebi.kanata)
 - [ashwin's dotfiles](https://github.com/ashwinjadhav818/dotfiles)
 - [connor's config](https://github.com/ConnorSweeneyDev/.config)
+- [SuppliedOrange's config](https://github.com/SuppliedOrange/dotfiles)
 
 ## Contribute
 
