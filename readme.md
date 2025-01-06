@@ -66,6 +66,7 @@
 - [ashwin's dotfiles](https://github.com/ashwinjadhav818/dotfiles)
 - [connor's config](https://github.com/ConnorSweeneyDev/.config)
 - [SuppliedOrange's config](https://github.com/SuppliedOrange/dotfiles)
+- [Taran's windots](https://github.com/tarannagra/windots/tree/komorebi)
 
 ## Contribute
 
