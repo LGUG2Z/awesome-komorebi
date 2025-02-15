@@ -60,6 +60,7 @@
 - [nezumi](https://github.com/donkee/nezumi) - another focus-follows-mouse app for Windows 11+; includes tray icon
 - [streamdeck-komorebi](https://github.com/kdeenanauth/streamdeck-komorebi) - displays Komorebi state information and optionally responds to key down events on the Elgato Stream Deck
 - [komorebi-loading](https://github.com/SuppliedOrange/komorebi-loading) - An electron app that starts komorebi and displays a cute loading screen while it does.
+- [KomorebiShellExtension](https://github.com/Zira3l137/KomorebiShellExtension) - A Windows context menu extension written in Python for komorebi to easilly manage floating and tiled window rules.
 
 ## Configurations
 
