@@ -45,6 +45,7 @@
 - [komotray-rs](https://github.com/joshprk/komotray) - Simple and lightweight tray icon that shows the current workspace for the Komorebi window manager
 - [komotray](https://github.com/urob/komotray) - A system tray status indicator for komorebi
 - [wkomorebi](https://github.com/vicyan1611/wkomorebi) - A tray status indicator for the komorebi windows tiling manager
+- [komorebi-tray-grid](https://github.com/h0tk3y/komorebi-tray-grid) - A simple workspace status indicator with a 9-grid tray icon per monitor
 
 ## Hotkey Daemons
 
