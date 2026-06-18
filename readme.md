@@ -41,7 +41,7 @@
 - [komorebit](https://github.com/obolenski/komorebit) - Yet another tray indicator for komorebi
 - [komoswitch](https://github.com/sashaboy779/KomoSwitch) - Workspace switcher for komorebi integrated into the Windows taskbar
 - [komoswitch](https://github.com/tuasananh/komoswitch) - A lightweight native Windows 11 workspace switcher widget for komorebi that integrates directly into the taskbar
-- [komorebi-switcher](https://github.com/amrbashir/komorebi-switcher) - A minimal workspace switcher for the Komorebi tiling window manager, seamlessly integrated into the Windows 10/11 taskbar.
+- [komorebi-switcher](https://github.com/amrbashir/komorebi-switcher) - A minimal workspace switcher for the Komorebi tiling window manager, seamlessly integrated into the Windows 10/11 taskbar or macOS menu bar.
 - [komotray-rs](https://github.com/joshprk/komotray) - Simple and lightweight tray icon that shows the current workspace for the Komorebi window manager
 - [komotray](https://github.com/urob/komotray) - A system tray status indicator for komorebi
 - [wkomorebi](https://github.com/vicyan1611/wkomorebi) - A tray status indicator for the komorebi windows tiling manager
